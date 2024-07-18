@@ -47,14 +47,14 @@ makefile KoptLS
 This creates the suite KoptLS, i.e., a program for TSP local search via k-OPT
 moves for (k=2,3,4). Only k=2 is relevant to the paper.
 
-Please, find further instructions on how to use the suite KoptLS on the file [docs/KoptLSmanual.pdf].
+Please, find further instructions on how to use the suite KoptLS on the file [docs/KoptLSmanual.pdf](docs/KoptLSmanual.pdf).
 
 ## Results
 
 Please, find all instructions on how to replicate the paper's computational
-experiments on the file [docs/KoptLS_JOC.pdf].
+experiments on the file [docs/KoptLS_JOC.pdf](docs/KoptLS_JOC.pdf).
 
 This is a detailed step-by-step guide on how to use KoptLS in order to simulate
 the experiment relative to all tables and figures reported in the paper.
 
-Tables and figures can be found on [docs/tablesAndFigures.pdf].
+Tables and figures can be found on [docs/tablesAndFigures.pdf](docs/tablesAndFigures.pdf).
