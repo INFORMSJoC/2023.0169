@@ -44,7 +44,7 @@ Giuseppe Lancia and Paolo Vidoni, INFORMS Journal on Computing, 2024.
 
 The programs are in c. They can be compiled by running
 ```
-makefile KoptLS
+make KoptLS
 ```
 This creates the suite KoptLS, i.e., a program for TSP local search via k-OPT
 moves for (k=2,3,4). Only k=2 is relevant to the paper.
